@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640671165 source:d:\programming practice\next\main.cpp
+	<iostream>
+	<iomanip>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1645783847 source:d:\programming practice\delete\main.cpp
+	<iostream>
+
+1645621826 source:d:\programming practice\delete\main.c
+	<iostream>
+	<string>
+

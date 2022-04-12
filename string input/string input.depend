@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645797335 source:d:\programming practice\string input\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
